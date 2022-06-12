@@ -1,4 +1,3 @@
 # wedevleran
-all about webdevelopment project
-this is basically A Digital Clock Project 
-tech stack - HTML , CSS , JS
+all about webdevelopment project in thsi repo and continue upload  new project in here
+
